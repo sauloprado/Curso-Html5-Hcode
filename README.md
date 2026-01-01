@@ -71,10 +71,8 @@ cd html5-hcode
 
 ## 📬 Contato
 
-Dúvidas ou sugestões? Vamos trocar conhecimento!
-
 💼 **Saulo Prado**  
-🔗 [LinkedIn](https://www.linkedin.com/in/sauloprado)
+🔗 [LinkedIn](https://www.linkedin.com/in/saulo-prado-ab4a0b96/)
 
 ---
 
